@@ -1,0 +1,1 @@
+atm.o: ../atm.cpp
